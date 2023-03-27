@@ -6,7 +6,7 @@
 Designed only front-end of Hotstar using CodeSandbox platform.
 
 <ul>
-<li>A moving crousel.</li>
+<li>A moving carousel.</li>
 <li> Live video on hovering upon banners(production companies).</li>
 <li> Can scroll left and right to explore 'Recommended For You' & 'Popular Shows' section.</li>
 </ul>
