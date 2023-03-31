@@ -1,7 +1,7 @@
 # Hotstar clone
 
 <p align="center">
-  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/1.png?raw=true" width="650" alt="accessibility text">
+  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/clone1.png?raw=true">
 </p>
 Designed only front-end of Hotstar using CodeSandbox platform.
 
