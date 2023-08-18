@@ -1,5 +1,7 @@
 # Hotstar clone
 
+Deployed at: https://dbwice-5000.csb.app/
+
 <p align="center">
   <img src="https://github.com/SKULLDRAGON099/banner/blob/main/clone1.png?raw=true">
 </p>
